@@ -1,0 +1,9 @@
+/*
+
+*/
+
+package YYY.XXX;
+
+class XXX {
+
+}

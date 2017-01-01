@@ -1,0 +1,13 @@
+package YYY.XXX;
+
+import org.junit.Test;
+import static org.junit.Assert.*;
+
+public class XXX_test {
+
+    @Test
+    public void test1() {
+        XXX test = new XXX();
+    }
+
+}
