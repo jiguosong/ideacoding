@@ -14,5 +14,4 @@ public class containmostwater_Test {
         System.out.println(ans);
         assertEquals("must be", 15, ans);
     }
-
 }
