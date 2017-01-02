@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author songjiguo
- *
- */
-package combinatorics;

@@ -73,7 +73,7 @@
 //	/**
 //	 * @param args
 //	 */
-//	public static void main(String[] args) {
+//	public static void src(String[] args) {
 //		detectcycle test = new detectcycle();
 //		int[] data = {1,2,3,4,5,6,7,3,9};
 //		MyList ll = new MyList(data);

@@ -35,23 +35,4 @@ public class removedupliacerdlist {
         return head;
     }
 
-    /**
-     * @param args
-     */
-    public static void main(String[] args) {
-        removedupliacerdlist test = new removedupliacerdlist();
-        int[] data = {1, 2, 2, 2, 5, 6, 8, 8, 9};
-        MyList ll = new MyList(data);
-        ll.PrintListAll();
-
-        ListNode ans = test.deleteDuplicates(ll.getHead());
-
-        while (ans != null) {
-            System.out.print(ans.val);
-            ans = ans.next;
-        }
-
-
-    }
-
 }

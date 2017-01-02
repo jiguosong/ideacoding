@@ -145,7 +145,7 @@ public class sum {
 //		return res;
 //	}
 //	
-//	public static void main(String[] args){
+//	public static void src(String[] args){
 //		sums test = new sums();
 //		
 //		Integer[] array = {10, 2, 3, 4, 5, 6};
